@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="scoreboard">
+        <div class="team team1">
+          <div class="teamname">DRACS</div>
+          <div id="scoreDracs" class="score">0</div>
+          <div class="teambottom">
+            <div id="timeDracs1" class="timeoutOn"></div>
+            <div id="timeDracs2" class="timeoutOn"></div>
+            <div id="timeDracs3" class="timeoutOn"></div>
+          </div>
+          <div class="yellowthing"></div>
+        </div>
+        <div class="team team2">
+          <div class="teamname">VISITANTE</div>
+          <div id="scoreVisitor" class="score">0</div>
+          <div class="teambottom">
+            <div id="timeVisitor1" class="timeoutOn"></div>
+            <div id="timeVisitor2" class="timeoutOn"></div>
+            <div id="timeVisitor3" class="timeoutOn"></div>
+          </div>
+          <div class="yellowthing"></div>
+        </div>
+        <div class="otherpart">
+          <div id="quarterMarker">1st</div>
+          <div id="gameClock" class="clock score">
+            <div id="minutos">10</div> :
+            <div id="segundos">0</div>
+          </div>
+          <div id="playClock">40</div>
+          <div id="downMarker">
+            <div id="down">1st & </div>
+            <div id="yard">10</div> 
+          </div>
+        </div>
+      </div>
+</body>
+<script src="controller.js"></script>
+</html>

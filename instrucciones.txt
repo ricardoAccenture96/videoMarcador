@@ -1,0 +1,39 @@
+INSTRUCCIONES
+
+*marcadores
+
+subir marcador equipo dracs ==> q
+bajar marcador equipo dracs ==> w
+
+subir marcador equipo visitante ==> a
+bajar marcador equipo visitante ==> s
+
+*timeout 
+
+restar timout ==> e , para equipo dracs
+		  ==> d , para equipo visitante
+
+restaurar tiempos muertos == > r para dracs
+				  == > f visitante
+
+*relog
+
+marcha ==> z
+paro   ==> x
+
+subir minuto ==> c
+bajar minuto ==> v
+
+
+* Reiniciar game clock ==> b
+
+*subir cuarto ==> n
+	
+	para volver al primer cuarto ==> m
+
+*DOWNS
+
+para primero y 10 ==> p
+
+subir down ==> flecha arriba
+subir y bajar yardaje == >   flechas izquierda y derecha
